@@ -1,3 +1,3 @@
-do_token     = "dop_v1_e8b554bfd310aa7305536d99eb75ff153e5465608a47dff356ea7168fefd6013"
+do_token     = "dop_v1_43c0c4fc73967451f42749845d9eaf7e2d78197ce64f07f4cd01791eb1d5c71d"
 ssh_key_name = "MacBookPro"
 region       = "nyc3"
